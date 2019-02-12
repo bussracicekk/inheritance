@@ -4,8 +4,6 @@
 
 //This program creates a output_files folder and saves all of output files to it.
 
-package assignment2;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
