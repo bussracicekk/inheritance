@@ -1,6 +1,3 @@
-/**
- * @author busra cicek
- */
 
 //This program creates a output_files folder and saves all of output files to it.
 
